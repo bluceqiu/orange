@@ -2,7 +2,7 @@
   "name": "orange",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://orange.github.io",
+  "homepage": "https://bluceqiu.github.io/orange",
   "dependencies": {
     "@babel/core": "7.12.3",
     "@babel/plugin-syntax-jsx": "^7.12.1",
